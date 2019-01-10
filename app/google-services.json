@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "566034764186",
+    "firebase_url": "https://fbapp-2932f.firebaseio.com",
+    "project_id": "fbapp-2932f",
+    "storage_bucket": "fbapp-2932f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566034764186:android:b541b99455df66eb",
+        "android_client_info": {
+          "package_name": "com.example.fadiabrehman.fbapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566034764186-aq15bh3o8qt2luouf8n9dv1hlk9m4vq7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fadiabrehman.fbapp",
+            "certificate_hash": "6dcf0b4abd748e2c4088d5ad7b2329661de35262"
+          }
+        },
+        {
+          "client_id": "566034764186-ts1s84g9q3jtfgt4pfih4rv5lqhtmec7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM3gSlA6uiYjiFomJKozKFpjHVZO0HoQ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566034764186-ts1s84g9q3jtfgt4pfih4rv5lqhtmec7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
